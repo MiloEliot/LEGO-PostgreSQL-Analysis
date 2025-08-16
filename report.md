@@ -81,7 +81,7 @@ join count_sets d on c.set_num = d.set_num
 order by a.set_num, c.inventory_id
 ;
 ````
-Full result [Aggregation_two_steps.csv](./output/exports/Aggregation_two_steps.csv)
+Full result: [Aggregation_two_steps.csv](./output/exports/Aggregation_two_steps.csv)
 
 
 ## 4. Anonymous Blocks
