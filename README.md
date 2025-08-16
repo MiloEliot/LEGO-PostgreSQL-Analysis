@@ -1,6 +1,6 @@
 # LEGO Postgresql Analysis
 
-This project explores the LEGO dataset from Kaggle using Postgresql. 
+This project explores the LEGO dataset from Kaggle using PostgreSQL. 
 
 It demonstrates: 
 - Basic SQL commands 
